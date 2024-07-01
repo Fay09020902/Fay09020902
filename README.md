@@ -1,5 +1,10 @@
 ## Hi there 👋
 👯 How to reach me fyj121322@gmail.com
+
+##Skills
+* 💻 HTML, CSS, JS
+* ⚛️ React
+  
 <!--
 **Fay09020902/Fay09020902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
