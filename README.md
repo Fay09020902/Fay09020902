@@ -1,9 +1,13 @@
-## Hi there 👋
+## Hi, I'm Yinjiao! 👋
 👯 How to reach me fyj121322@gmail.com
+
+♀️ Software Engineer sharing about my journey and learnings in tech
+👧 Studied Applied Analytics at the Pepperdine University
 
 ## Skills
 * 💻 HTML, CSS, JS
 * ⚛️ React
+* 🧰 Python, Express, MS SQL, PostgreSQL
   
 <!--
 **Fay09020902/Fay09020902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
