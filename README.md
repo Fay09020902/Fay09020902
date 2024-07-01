@@ -1,7 +1,7 @@
 ## Hi there 👋
 👯 How to reach me fyj121322@gmail.com
 
-##Skills
+## Skills
 * 💻 HTML, CSS, JS
 * ⚛️ React
   
