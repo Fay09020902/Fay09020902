@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+👯 How to reach me fyj121322@gmail.com
 <!--
 **Fay09020902/Fay09020902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
