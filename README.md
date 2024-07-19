@@ -2,11 +2,13 @@
 👯 How to reach me fyj121322@gmail.com
 
 ♀️ Software Engineer sharing about my journey and learnings in tech
-👧 Studied Applied Analytics at the Pepperdine University
+👧 Studied Applied Analytics at the Pepperdine University.
+
+I am passionate about leveraging my creative problem-solving skills to develop scalable, efficient, and highly functional web technologies. I am eager to continue growing as a developer, enhancing my ability to tackle complex challenges alongside a talented team, and creating seamless user experiences.
 
 ## Skills
 * 💻 HTML, CSS, JS
-* ⚛️ React
+* ⚛️ React, Redux, Flask, Sequelize
 * 🧰 Python, Express, MS SQL, PostgreSQL
   
 <!--
@@ -23,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fay09020902&layout=compact)
