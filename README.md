@@ -1,4 +1,4 @@
-## Hi, I'm Yinjiao! 👋
+## Hi, I'm Jill! 👋
 👯 How to reach me yinj.fei@gmail.com
 
 ♀️ Software Engineer sharing about my journey and learnings in tech
